@@ -1,6 +1,6 @@
 # Web application React-catalog.
 
-1. [DEMO LINK](https://Ivanenko1402.github.io/phone-catalog)
+1. [DEMO LINK](https://ivanenko1402.github.io/react_phone-catalog/)
 
 1. Tech stack:
     - HTML5
